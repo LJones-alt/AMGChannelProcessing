@@ -30,7 +30,7 @@
         <TextBox x:Name="TbGetM" Style="{StaticResource TextBoxText}" HorizontalAlignment="Center" Margin="0,40,0,0" Grid.Row="3" Text="2.0" TextWrapping="Wrap" VerticalAlignment="Top" Width="93"/>
         <TextBox x:Name="TbGetC" Style="{StaticResource TextBoxText}" HorizontalAlignment="Center" Margin="0,40,0,0" Grid.Row="4" Text="0.5" TextWrapping="Wrap" VerticalAlignment="Top" Width="93"/>
         <Label Content="Enter Value for 'm'" Style="{StaticResource TextLabel}" HorizontalAlignment="Center" Margin="0,0,0,0" Grid.Row="3" VerticalAlignment="Top"/>
-        <Label Content="Enter Value for 'c" Style="{StaticResource TextLabel}" HorizontalAlignment="Center" Margin="0,0,0,0" Grid.Row="4" VerticalAlignment="Top"/>
+        <Label Content="Enter Value for 'c'" Style="{StaticResource TextLabel}" HorizontalAlignment="Center" Margin="0,0,0,0" Grid.Row="4" VerticalAlignment="Top"/>
         <Button x:Name="BtCalc" Content="Calculate" Style="{StaticResource SearchButton}" HorizontalAlignment="Center" Margin="0,0,0,0" Grid.Row="5" VerticalAlignment="Center" Height="35" Width="150" Click="BtCalc_Click"/>
         <Label x:Name="LbCalcB" Content="Calculated 'b' value: " Style="{StaticResource TextLabel}" Grid.Column="1" HorizontalAlignment="Left" Margin="210,2,0,0" Grid.Row="1" VerticalAlignment="Top"/>
         <TextBox x:Name="TbCalcb" Grid.Column="1" HorizontalAlignment="Left" Style="{StaticResource TextBoxText}" Margin="372,0,0,0" Grid.Row="1" Text="b" TextWrapping="Wrap" VerticalAlignment="Center" Width="211"/>
