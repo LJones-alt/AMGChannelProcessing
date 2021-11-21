@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AMGChannelTesting", "AMGChannelTesting\AMGChannelTesting.csproj", "{AC6941EA-4DB5-47C3-AAB6-B47D4AFB76C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC6941EA-4DB5-47C3-AAB6-B47D4AFB76C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC6941EA-4DB5-47C3-AAB6-B47D4AFB76C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC6941EA-4DB5-47C3-AAB6-B47D4AFB76C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC6941EA-4DB5-47C3-AAB6-B47D4AFB76C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {220A6A8E-7828-43A2-B9FF-87FF87CADC19}
+	EndGlobalSection
+EndGlobal
